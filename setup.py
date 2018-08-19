@@ -6,12 +6,13 @@ AUTHOR = 'Jean Rintoul'
 LICENSE = 'LICENSE'
 INSTALL_REQUIRES = [
                     'imageio~=2.2.0',
-                    'matplotlib~=2.1.1'
+                    'matplotlib~=2.1.1',
                     'numpy~=1.14.0',
                     'pyserial~=3.4',
                     'scikit-image~=0.13.1',
                     'scipy~=1.0.0',
                     'six~=1.11.0',
+                    'Adafruit_BluefruitLE~=0.9.10'
                 ]
 
 setup(
